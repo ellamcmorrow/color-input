@@ -3,4 +3,4 @@
  key 's' or 'S' saves the canvas an a png. </br>
  key 'w' changes the background to white.</br>
  key 'b' change background to black.</br>
- [Color-input](https://ellamcmorrow.github.io/color-input/)
+ [Click here to view](https://ellamcmorrow.github.io/color-input/)
