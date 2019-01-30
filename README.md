@@ -1,4 +1,5 @@
-## color-input
+## color-input-perlin-noise
+ This is a generative design piece created using p5.js.
  keys 1-7 to change input color of the perlin noise. </br>
  key 's' or 'S' saves the canvas an a png. </br>
  key 'w' changes the background to white.</br>
